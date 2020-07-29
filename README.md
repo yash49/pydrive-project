@@ -1,3 +1,7 @@
+## Contributors
+### YASH SHAH
+### VAIBHAV SORATHIYA
+
 ## PSC project
 ## Semester : 4
 ## Division : D
